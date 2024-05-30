@@ -19,7 +19,7 @@ A sleek and sophisticated dark theme for Visual Studio Code, designed to enhance
 
 ## Screenshots
 
-![Infinity Night Theme Screenshot](https://github.com/ammardevz/Infinity-Night-theme/blob/main/img1.png)
+![Infinity Night Theme Screenshot](https://github.com/ammardevz/Infinity-Night-theme/blob/main/img1.png?raw=true)
 
 ## Feedback and Rating
 
