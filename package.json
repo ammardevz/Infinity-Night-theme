@@ -4,7 +4,8 @@
   "description": "A Dark theme, created by Ammar Dev",
   "publisher": "AmmarDev",
   "icon": "./logo.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": "https://github.com/ammardevz/Infinity-Night-theme/",
   "engines": {
     "vscode": "^1.89.0"
   },
