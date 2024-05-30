@@ -1,24 +1,32 @@
-<<<<<<< HEAD
-# Infinity-theme README
+# Infinity Night Theme
 
-## Working with Markdown
+A sleek and sophisticated dark theme for Visual Studio Code, designed to enhance your coding experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Carefully-curated color palette for a visually-appealing and comfortable coding environment
+- High contrast for improved readability
+- Optimized for both code and markdown editing
+- Compatible with a wide range of programming languages
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open Visual Studio Code
+2. Go to the Extensions view (Ctrl+Shift+X)
+3. Search for "Infinity Night Theme"
+4. Click "Install" to install the theme
+5. Select the Infinity Night Theme from the list of available themes
 
-**Enjoy!**
-=======
-# Infinity Night theme
+## Screenshots
 
-A dark simple theme for vscode
+![Infinity Night Theme Screenshot](https://github.com/ammardevz/Infinity-Night-theme/blob/main/img1.png)
 
+## Feedback and Rating
 
->>>>>>> 7703e8cd430860f37c9f503219f56f6da49f9385
+Your rating and feedback are important to us. They help us improve the theme and make it better. Please take a moment to rate the Infinity Night Theme and share your thoughts in the comments.
+
+## Contribute
+
+If you'd like to contribute to the Infinity Night Theme, feel free to submit a pull request on the [GitHub repository](https://github.com/ammardevz/Infinity-Night-theme). We welcome any suggestions, bug reports, or code improvements.
+
+Enjoy the Infinity Night Theme!
