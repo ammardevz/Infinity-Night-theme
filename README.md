@@ -1,2 +1,5 @@
-# Infinity-Night-theme
- 
+# Infinity Night theme
+
+A dark simple theme for vscode
+
+
