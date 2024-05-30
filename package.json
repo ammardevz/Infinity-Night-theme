@@ -1,0 +1,23 @@
+{
+  "name": "Infinity-night-theme",
+  "displayName": "Infinity Night theme",
+  "description": "A Dark theme, created by Ammar Dev",
+  "publisher": "AmmarDev",
+  "icon": "./logo.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Infinity Night Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Infinity-Theme-color-theme.json"
+      }
+    ]
+  }
+}
